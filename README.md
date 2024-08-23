@@ -21,3 +21,5 @@
                                                                 Email: gregory_akauan@hotmail.com
                                                                 LinkedIn: Gregory Akauan
                                                                 GitHub: ProdByGreg
+  
+  <a href="https://github.com/ProdByGreg/ProdByGreg/blob/main/GregoryAkauan.pdf" class="nav-link">**Curriculo**</a>
