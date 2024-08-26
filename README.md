@@ -24,9 +24,9 @@
   
   <a href="https://github.com/ProdByGreg/ProdByGreg/blob/main/GregoryAkauan.pdf" class="nav-link">**Curriculo**</a>
 
-  [![crisFiep GitHub stats](https://github-readme-stats.vercel.app/api?username=crisFiep)](https://github.com/crisFiep/github-readme-stats)
+
 <div style ="display: inline_block"><br/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white&quot; />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white; />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&quot; />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&quot; />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&quot; />
