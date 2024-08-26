@@ -3,7 +3,6 @@
 ### Este projeto é uma iniciativa voltada para fornecer soluções especializadas em tecnologia, com o objetivo de otimizar processos, reduzir custos e aumentar a eficiência operacional.
 ### Nosso projeto oferece uma abordagem estratégica e personalizada para atender às necessidades específicas, abrangendo análise de processos, implementação de melhores práticas e suporte contínuo.
 
-[![crisFiep GitHub stats](https://github-readme-stats.vercel.app/api?username=crisFiep)](https://github.com/crisFiep/github-readme-stats)
 <div style ="display: inline_block"><br/>
  <img align="center" alt="html5" src="[https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white&quot](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white); />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&quot; />
