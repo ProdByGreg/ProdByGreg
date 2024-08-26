@@ -3,6 +3,8 @@
 ### Este projeto é uma iniciativa voltada para fornecer soluções especializadas em tecnologia, com o objetivo de otimizar processos, reduzir custos e aumentar a eficiência operacional.
 ### Nosso projeto oferece uma abordagem estratégica e personalizada para atender às necessidades específicas, abrangendo análise de processos, implementação de melhores práticas e suporte contínuo.
 
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
 - 🔭 Análise de Processos: Avaliação detalhada dos processos para identificar oportunidades de melhoria e otimização.
   
 - 🌱 Implementação de Soluções: Desenvolvimento e execução de estratégias para melhorar a eficiência operacional e reduzir desperdícios.
