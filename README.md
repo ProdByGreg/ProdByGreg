@@ -34,6 +34,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"; />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"; />
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"; />
-</div>
+</div><br/>
 
-[![ProdByGreg GitHub stats](https://github-readme-stats.vercel.app/api?username=ProdByGreg&show_icons=true&theme=dark)](https://github.com/ProdByGreg/github-readme-stats)
+[![ProdByGreg GitHub stats](https://github-readme-stats.vercel.app/api?username=ProdByGreg&show_icons=true&theme=cobalt)](https://github.com/ProdByGreg/github-readme-stats)
