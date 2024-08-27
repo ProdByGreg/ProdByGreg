@@ -36,4 +36,4 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"; />
 </div>
 
-[![ProdByGreg GitHub stats](https://github-readme-stats.vercel.app/api?username=ProdByGreg)](https://github.com/ProdByGreg/github-readme-stats)
+[![ProdByGreg GitHub stats](https://github-readme-stats.vercel.app/api?username=ProdByGreg&show_icons=true&theme=dark)](https://github.com/ProdByGreg/github-readme-stats)
